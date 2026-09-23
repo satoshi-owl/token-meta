@@ -1,0 +1,11 @@
+{
+  "name": "QA Launch Two",
+  "symbol": "QATWO",
+  "description": "Throwaway launch test. Not affiliated with any project. Do not buy.",
+  "image": "https://raw.githubusercontent.com/satoshi-owl/token-meta/main/qatwo/image.jpg",
+  "external_url": "https://example.org/qatwo",
+  "extensions": {
+    "website": "https://example.org/qatwo",
+    "twitter": "https://x.com/qatwo_test"
+  }
+}
