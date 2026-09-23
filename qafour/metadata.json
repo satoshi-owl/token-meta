@@ -1,0 +1,20 @@
+{
+  "name": "QA Launch Four",
+  "symbol": "QAFOUR",
+  "description": "Throwaway launch test. Not affiliated with any project. Do not buy.",
+  "image": "https://raw.githubusercontent.com/satoshi-owl/token-meta/main/qafour/image.jpg",
+  "external_url": "https://example.org/qafour",
+  "website": "https://example.org/qafour",
+  "twitter": "https://x.com/qafour_test",
+  "extensions": {
+    "website": "https://example.org/qafour",
+    "twitter": "https://x.com/qafour_test"
+  },
+  "properties": {
+    "category": "image",
+    "links": {
+      "website": "https://example.org/qafour",
+      "twitter": "https://x.com/qafour_test"
+    }
+  }
+}
