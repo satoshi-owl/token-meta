@@ -7,5 +7,12 @@
   "extensions": {
     "website": "https://example.org/qatwo",
     "twitter": "https://x.com/qatwo_test"
+  },
+  "properties": {
+    "category": "image",
+    "links": {
+      "website": "https://example.org/qatwo",
+      "twitter": "https://x.com/qatwo_test"
+    }
   }
 }
